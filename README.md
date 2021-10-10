@@ -16,4 +16,4 @@ There is a folder called [Notes](./notes), which has the individual markdown fil
 
 There is also a folder called [Book](./book), which contains the book's `.tex` file. The book is to be written in $\LaTeX$ using the *book* style.
 
-Finally, this root directory contains this [README.md](.) as well as the aforementioned folders.
+Finally, this root directory contains this [README.md](./README.md) as well as the aforementioned folders.
